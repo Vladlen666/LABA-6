@@ -77,5 +77,3 @@ TEST(TStack, can_set_size_stack)
   EXPECT_EQ(3, st.get_size());
 }
 
-
-
