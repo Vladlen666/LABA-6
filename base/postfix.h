@@ -6,7 +6,6 @@
 #include "table.h"
 #include "polynom.h"
 
-
 using namespace std;
 
 class TPostfix
